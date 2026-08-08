@@ -30,4 +30,4 @@ Although AirBnB and SEPTA won’t provide an exact amount of how much [AirBnB fu
 
 While most of the funds raised were before the World Cup started, Philadelphia also gained a small economic boost from the FIFA Fan Fest and tourists flowing in and out of the city. [Tourism spending](https://dced.pa.gov/newsroom/pennsylvania-successfully-hosted-six-world-cup-matches-welcomed-half-a-million-people-to-philadelphia-and-boosted-the-commonwealths-economy/) is estimated to be roughly $305 million contributed to stays, local stores, restaurants and more. This doesn’t include the $2.64 million made between the local food trucks that made the Philly Phlavor line-up.
 
-![Money Made during the FIFA Fan Festival](https://datawrapper.dwcdn.net/CuQwO/2/)
+[![Money Made during the FIFA Fan Festival](https://datawrapper.dwcdn.net/CuQwO/2/)](https://datawrapper.dwcdn.net/CuQwO/2/)
