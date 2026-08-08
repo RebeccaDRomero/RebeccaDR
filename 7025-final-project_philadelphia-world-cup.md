@@ -14,6 +14,9 @@ Roughly, $80 million was raised by public funders like FEMA – who gave [$625 m
 
 <img width="170" height="150" alt="PIECHART-money-raised-before-start-of-world-cup-" src="https://github.com/user-attachments/assets/2fee26ad-ac36-48b6-9fcd-baa0da0cb2bc" />
 
+[PIECHART-money-raised-before-start-of-world-cup-.pdf](https://github.com/user-attachments/files/30849265/PIECHART-money-raised-before-start-of-world-cup-.pdf)
+
+
 Philadelphia’s [FIFA Fan Festival](https://metrophiladelphia.com/stories/fifa-world-cup-leaves-lasting-impact-philadelphia,149462) outperformed the other 10 host cities in many ways. It was open and free for all 39 days of the World Cup, there were free prizes and gifts offered by companies like Home Depot and Visit PA, they had a line up of local food trucks they called a taste of “[Philly Phlavor](https://phillyfwc26.com/food-entertainment#foodtruck)” (that rotated weekly). For many people seeing the games on the huge jumbotrons were the highlight, for others it was the lineup of [free concerts](https://phillyfwc26.com/entertainment). It’s safe to say the Philly FIFA Fan Fest had something for everyone and the $140 million were put to use.
 
 The Fan Fest wasn’t the only thing that needed millions of dollars to make Philadelphia a successful host city. SEPTA, Philadelphia's transportation system, the Lincoln Financial Field and Lemon Hill Park all required renovations and increased operational expenses in order to provide Philadelphians and tourists with easier experiences.
