@@ -12,7 +12,7 @@ By May 2026, they raised approximately $140 million utilizing both public and pr
 
 Roughly, $80 million was raised by public funders like FEMA – who gave [$625 million](https://www.fema.gov/press-release/20260514/fema-awards-historic-625-million-states-and-cities-secure-years-fifa-world) to host cities across the country for the World Cup – the City of Philadelphia and Visit PA. The other $60 million came from private donors. The specific amount donated by each private funder is undisclosed. On the [Philly FIFA World Cup](https://phillyfwc26.com/supporters) website resides the list of private funders and the even longer list of sponsors. Such as Penn Medicine, the Philadelphia Eagles, the Philadelphia Electric Company (PECO) and more.
 
-<img width="550" height="530" alt="PIECHART-money-raised-before-start-of-world-cup-" src="https://github.com/user-attachments/assets/2fee26ad-ac36-48b6-9fcd-baa0da0cb2bc" />
+<img width="560" height="540" alt="PIECHART-money-raised-before-start-of-world-cup-" src="https://github.com/user-attachments/assets/2fee26ad-ac36-48b6-9fcd-baa0da0cb2bc" />
 
 Philadelphia’s [FIFA Fan Festival](https://metrophiladelphia.com/stories/fifa-world-cup-leaves-lasting-impact-philadelphia,149462) outperformed the other 10 host cities in many ways. It was open and free for all 39 days of the World Cup, there were free prizes and gifts offered by companies like Home Depot and Visit PA, they had a line up of local food trucks they called a taste of “[Philly Phlavor](https://phillyfwc26.com/food-entertainment#foodtruck)” (that rotated weekly). For many people seeing the games on the huge jumbotrons were the highlight, for others it was the lineup of [free concerts](https://phillyfwc26.com/entertainment). It’s safe to say the Philly FIFA Fan Fest had something for everyone and the $140 million were put to use.
 
@@ -20,7 +20,7 @@ The Fan Fest wasn’t the only thing that needed millions of dollars to make Phi
 
 The Lincoln Financial Field needed just [under $10 million](https://billypenn.com/2026/05/13/lincoln-financial-field-fifa-world-cup-soccer-tournament-grass-turf-covered-signs-eagles/) for field expansion, a proper grass mix and other relevant renovations to make it FIFA approved in 2025. For FIFA Fan Fest, Philadelphia spent approximately $5.2 million for Lemon Hill Park roads and sidewalk [repairs](https://www.phila.gov/2025-10-03-streets-department-announces-roadway-improvement-work-to-begin-in-lemon-hill-on-monday-october-6/) and event preparation.
 
-<img width="201" height="150" alt="bar chart" src="https://github.com/user-attachments/assets/a60a17e5-ea37-4da4-a999-006546c95d75" />
+<img width="551" height="500" alt="bar chart" src="https://github.com/user-attachments/assets/a60a17e5-ea37-4da4-a999-006546c95d75" />
 
 SEPTA increased its operations and even provided free transportation – something Philadelphia never sees. It was able to [increase operations and services](https://www.inquirer.com/transportation/septa-federal-money-enhanced-service-world-cup-250th-20260304.html) as well as security through funds received from the Federal Transit Administration (FTA). Free transportation was perhaps the greatest donation of all.
 
