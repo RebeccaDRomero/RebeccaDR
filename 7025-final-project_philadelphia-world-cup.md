@@ -1,5 +1,3 @@
-<img width="170" height="150" alt="PIECHART-money-raised-before-start-of-world-cup-" src="https://github.com/user-attachments/assets/2fee26ad-ac36-48b6-9fcd-baa0da0cb2bc" />
-
 Philadelphia Takes the Trophy for World Cup Host City  
 By: Rebecca Romero
 
