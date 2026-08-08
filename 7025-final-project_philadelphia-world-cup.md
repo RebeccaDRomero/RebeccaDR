@@ -1,4 +1,4 @@
-Philadelphia Takes the Trophy for World Cup Host City  
+<img width="201" height="150" alt="bar chart" src="https://github.com/user-attachments/assets/a60a17e5-ea37-4da4-a999-006546c95d75" />Philadelphia Takes the Trophy for World Cup Host City  
 By: Rebecca Romero
 
 The World Cup being hosted across North America felt, to many Americans, like just a few days. However, for Philadelphia as a host city, it was years of planning and winning the bid.
@@ -19,7 +19,7 @@ The Fan Fest wasn’t the only thing that needed millions of dollars to make Phi
 
 The Lincoln Financial Field needed just [under $10 million](https://billypenn.com/2026/05/13/lincoln-financial-field-fifa-world-cup-soccer-tournament-grass-turf-covered-signs-eagles/) for field expansion, a proper grass mix and other relevant renovations to make it FIFA approved in 2025. For FIFA Fan Fest, Philadelphia spent approximately $5.2 million for Lemon Hill Park roads and sidewalk [repairs](https://www.phila.gov/2025-10-03-streets-department-announces-roadway-improvement-work-to-begin-in-lemon-hill-on-monday-october-6/) and event preparation.
 
-<?xml version="1.0" encoding="UTF-8"?>
+![Uploading bar c<?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 805 600">
   <!-- Generator: Adobe Illustrator 30.7.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 114)  -->
   <defs>
@@ -131,7 +131,7 @@ The Lincoln Financial Field needed just [under $10 million](https://billypenn.co
   <text class="st2" transform="translate(162.85 508.28)"><tspan x="0" y="0">1.2M</tspan></text>
   <text class="st2" transform="translate(402.5 268.33)"><tspan x="0" y="0">5.5M</tspan></text>
   <text class="st2" transform="translate(661.49 16.01)"><tspan x="0" y="0">10M</tspan></text>
-</svg>
+</svg>hart.svg…]()
 
 SEPTA increased its operations and even provided free transportation – something Philadelphia never sees. It was able to [increase operations and services](https://www.inquirer.com/transportation/septa-federal-money-enhanced-service-world-cup-250th-20260304.html) as well as security through funds received from the Federal Transit Administration (FTA). Free transportation was perhaps the greatest donation of all.
 
