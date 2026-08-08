@@ -20,7 +20,7 @@ The Fan Fest wasn’t the only thing that needed millions of dollars to make Phi
 
 The Lincoln Financial Field needed just [under $10 million](https://billypenn.com/2026/05/13/lincoln-financial-field-fifa-world-cup-soccer-tournament-grass-turf-covered-signs-eagles/) for field expansion, a proper grass mix and other relevant renovations to make it FIFA approved in 2025. For FIFA Fan Fest, Philadelphia spent approximately $5.2 million for Lemon Hill Park roads and sidewalk [repairs](https://www.phila.gov/2025-10-03-streets-department-announces-roadway-improvement-work-to-begin-in-lemon-hill-on-monday-october-6/) and event preparation.
 
-<img width="551" height="500" alt="bar chart" src="https://github.com/user-attachments/assets/a60a17e5-ea37-4da4-a999-006546c95d75" />
+<img width="571" height="520" alt="bar chart" src="https://github.com/user-attachments/assets/a60a17e5-ea37-4da4-a999-006546c95d75" />
 
 SEPTA increased its operations and even provided free transportation – something Philadelphia never sees. It was able to [increase operations and services](https://www.inquirer.com/transportation/septa-federal-money-enhanced-service-world-cup-250th-20260304.html) as well as security through funds received from the Federal Transit Administration (FTA). Free transportation was perhaps the greatest donation of all.
 
