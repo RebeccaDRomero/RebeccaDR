@@ -1,5 +1,7 @@
-<!DOCTYPE html>  
+
 <html>  
-<head>  
-  Published Articles
+  <h1>Welcome to My Published Articles</h1>  
+</html>
+
+
 
