@@ -1,10 +1,3 @@
----
-layout: page
-title: "Philadelphia Takes the Trophy for World Cup Host City"
-date: 2026-08-08
-permalink: /articles/philadelphia-world-cup/
-author: "Rebecca Romero"
----
 
 Philadelphia Takes the Trophy for World Cup Host City  
 By: Rebecca Romero
