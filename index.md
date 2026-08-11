@@ -15,6 +15,7 @@ Roughly, $80 million was raised by public funders like FEMA – who gave [$625 m
 
 <img width="560" height="540" alt="PIECHART-money-raised-before-start-of-world-cup-" src="https://github.com/user-attachments/assets/2fee26ad-ac36-48b6-9fcd-baa0da0cb2bc" />
 
+****Fan Fest for the Books****
 Philadelphia’s [FIFA Fan Festival](https://metrophiladelphia.com/stories/fifa-world-cup-leaves-lasting-impact-philadelphia,149462) outperformed the other 10 host cities in many ways. It was open and free for all 39 days of the World Cup, there were free prizes and gifts offered by companies like Home Depot and Visit PA, they had a line up of local food trucks they called a taste of “[Philly Phlavor](https://phillyfwc26.com/food-entertainment#foodtruck)” (that rotated weekly). 
 
 For many visitors, watching the matches on the huge jumbotrons was the highlight, for others it was the lineup of [free concerts](https://phillyfwc26.com/entertainment). It’s safe to say the Philly FIFA Fan Fest had something for everyone.
