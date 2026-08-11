@@ -7,7 +7,7 @@ Philadelphia created a [Host Committee](https://phillyfwc26.com/leadership) of p
 
 This was not an easy feat. Although the Philadelphia Host Committee made it look this way. They were able to [promise $41 million](https://frontofficesports.com/philadelphia-fifa-world-cup-fundraising-private-partners-donors/) by 2021 during the bidding rounds while FIFA was getting ready to approve host cities.
 
-CEO of Visit Philadelphia, Angela Val, spoke with Front Office Sports saying, “Philly, when we decide to do something, we are very good at working toward that thing. And I think that’s evident in how many large events that we’ve been able to do and have them go really well.”
+CEO of Visit Philadelphia, Angela Val, spoke with [Front Office Sports](https://frontofficesports.com/philadelphia-fifa-world-cup-fundraising-private-partners-donors/) saying, “Philly, when we decide to do something, we are very good at working toward that thing. And I think that’s evident in how many large events that we’ve been able to do and have them go really well.”
 
 By May 2026, they raised approximately $140 million utilizing both public and private funders. The money raised was dedicated to the FIFA Fan Festival and other FIFA pop-up events around the city. All other donations and expenses for [SEPTA](https://www.septa.org/), the [Lincoln Financial Field](https://www.lincolnfinancialfield.com/) – known as the [Philadelphia Stadium](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/stadiums/philadelphia) where the Philadelphia matches were played – and renovations for [Lemon Hill Park](https://www.phillyvoice.com/world-cup-philly-lemon-hill-park-fifa-fanfest-construction/) – where the Fan Festival was held – are not included in the $140 million raised.
 
@@ -19,7 +19,7 @@ Philadelphia’s [FIFA Fan Festival](https://metrophiladelphia.com/stories/fifa-
 
 For many visitors, watching the matches on the huge jumbotrons was the highlight, for others it was the lineup of [free concerts](https://phillyfwc26.com/entertainment). It’s safe to say the Philly FIFA Fan Fest had something for everyone.
 
-In an interview with Metro Philly Sports Network, Leah Uko, press secretary for the mayor, spoke about the fan festival. “It generated millions in local spending, supported local jobs and businesses and it showed the world that it (Philadelphia) can host global events.”
+In an interview with [Metro Philly Sports Network](https://metrophiladelphia.com/stories/fifa-world-cup-leaves-lasting-impact-philadelphia,149462), Leah Uko, press secretary for the mayor, spoke about the fan festival. “It generated millions in local spending, supported local jobs and businesses and it showed the world that it (Philadelphia) can host global events.”
 
 The Fan Fest wasn’t the only thing that needed millions of dollars to make Philadelphia a successful host city. SEPTA, Philadelphia's transportation system, the Lincoln Financial Field and Lemon Hill Park all required renovations and increased operational expenses in order to provide Philadelphians and tourists with easier experiences.
 
